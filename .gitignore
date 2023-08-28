@@ -159,4 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-git add -m mi-archivo
+git add -m mi-archivo.txt
+git commit-m mi-archivo.txt
+
+git push main
